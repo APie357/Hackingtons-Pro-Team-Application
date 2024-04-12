@@ -1,0 +1,21 @@
+Hackingtons Pro Team Application
+by AndrewD1
+
+Tasks:
+ - [x] Add a button.
+ - [x] Make button move to random location on the screen when clicked.
+ - [x] Keep a score that is displayed on the screen.
+ - [x] Save the score.
+ - [x] Add sound.
+ - [x] Submit to teachers at Hackingtons.
+
+My Toolset:
+ - Unity Personal 2022.3.12f1
+ - Jetbrains Rider 2024.1 EAP 8
+ - Arch Linux (with i3wm and Brave Browser)
+
+Additional Credits:
+ - Click sound: Pixabay (https://pixabay.com/sound-effects/ui-click-97915/)
+ - Font: Space Mono on Google Fonts (https://fonts.google.com/specimen/Space+Mono)
+
+Remember: A pull a day keeps the merge conflict away.
